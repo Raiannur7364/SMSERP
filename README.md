@@ -1,1 +1,1 @@
-# SMSERP
+This is basically a admin software to keep track of all the resource and employee of a company. I have used bootstrap for the frontend and c# for the backend operation. I have made connection between the frontend and backend by using Jquerry. 
